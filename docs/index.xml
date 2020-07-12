@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Ciudad y Espacio 2020 on Nombre Alumno</title>
+    <title>Docs on Nombre Alumno</title>
     <link>https://gonzalomaldonado-mid.github.io/docs/</link>
-    <description>Recent content in Taller Ciudad y Espacio 2020 on Nombre Alumno</description>
+    <description>Recent content in Docs on Nombre Alumno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
     
 	<atom:link href="https://gonzalomaldonado-mid.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -57,11 +57,20 @@
     </item>
     
     <item>
-      <title>Taller de Espacio Y Ciudad</title>
-      <link>https://gonzalomaldonado-mid.github.io/docs/objetivos/</link>
+      <title>ENCARGO 02</title>
+      <link>https://gonzalomaldonado-mid.github.io/docs/encargo-02/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://gonzalomaldonado-mid.github.io/docs/objetivos/</guid>
+      <guid>https://gonzalomaldonado-mid.github.io/docs/encargo-02/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
+    <item>
+      <title>ENCARGO 03</title>
+      <link>https://gonzalomaldonado-mid.github.io/docs/encargo-03/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://gonzalomaldonado-mid.github.io/docs/encargo-03/</guid>
       <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
